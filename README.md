@@ -4,6 +4,8 @@ Je m'appelle florent tuppo, je poursuis ma reconversion professionnelle et mon a
 Je suis de tempérament assez curieux et créatif, j'aime le travail en autonomie, mais également pouvoir travailler en équipe que cela soit en physique ou distanciel je m'adapte.
 Dans mon github se trouve toute sorte de projet ainsi que mon premier portfolio développé from scratch , et ci-dessous une liste des technos et autres que j'utilise pour travailler et continuer d'apprendre sans cesse.
 
+Vue d'ensemble de mon profil ici ===> https://profile-summary-for-github.com/user/fiorenzo84
+
 
 Langages //
 
