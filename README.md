@@ -1,13 +1,26 @@
 ### Hi there 👋
 
-Je m'appelle florent tuppo, je poursuis ma reconversion professionnelle et mon apprentissage très passionnant aux métiers du numérique en formation chez Openclassrooms, mais aussi en autodidacte en paralèle via des cours en ligne comme udemy et autres tuto pour monter en compétences.
-Je suis de tempérament assez curieux et créatif, j'aime le travail en autonomie, mais également pouvoir travailler en équipe que cela soit en physique ou distanciel je m'adapte.
-Dans mon github se trouve toute sorte de projet ainsi que mon premier portfolio développé from scratch , et ci-dessous une liste des technos et autres que j'utilise pour travailler et continuer d'apprendre sans cesse.
+::FR::
+
+Je m'appelle florent tuppo et je suis en train de me reconvertir professionnellement dans les métiers du numérique. Pour cela, j'ai entrepris une formation auprès d'Openclassrooms et j'ai également travaillé de manière autodidacte en suivant des cours en ligne tels que ceux proposés par Udemy et en explorant d'autres tutoriels. Je suis passionné par l'apprentissage et je suis constamment à la recherche de nouvelles compétences.
+
+Je suis une personne curieuse et créative qui aime travailler de manière autonome, mais qui apprécie également travailler en équipe, que ce soit en présentiel ou à distance.
+Vous pouvez trouver divers projets sur mon GitHub ainsi que mon premier portfolio développé from scratch.
+
+
+
+ ::EN::
+ 
+ My name is Florent Tuppo and I am in the process of professionally transitioning into the digital industry. To do this, I have undertaken training with Openclassrooms and have also self-taught myself through online courses such as those offered by Udemy and exploring other tutorials. I am passionate about learning and am constantly seeking out new skills.
+
+I am a curious and creative person who enjoys working independently, but also values teamwork, whether in person or remotely. You can find various projects on my GitHub and my first portfolio developed from scratch is also available.
 
 CONTACT : florent.tuppo@gmail.com
 
 Vue d'ensemble de mon profil ici ===> https://profile-summary-for-github.com/user/fiorenzo84
 
+
+Voici une liste des technologies et autres outils que j'utilise pour travailler et poursuivre mon apprentissage en permanence :
 
 Langages //
 
