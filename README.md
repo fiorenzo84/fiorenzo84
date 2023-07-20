@@ -16,13 +16,9 @@ Vous pouvez trouver divers projets sur mon GitHub.
 
 I am a curious and creative person who enjoys working independently, but also values teamwork, whether in person or remotely. You can find various projects on my GitHub.
 
-## 📫 Contact 
-Vous pouvez me joindre par e-mail: florent.tuppo@gmail.com
-
-Vue d'ensemble de mon profil ici ===> https://profile-summary-for-github.com/user/fiorenzo84
 
 ## 💻 Technologies 
-Voici une liste des technologies et autres outils que j'utilise pour travailler et poursuivre mon apprentissage en permanence :
+Liste des technologies et autres outils que j'utilise pour travailler et poursuivre mon apprentissage en permanence :
 
 ### Langages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,4 +46,7 @@ Voici une liste des technologies et autres outils que j'utilise pour travailler 
 ### Design:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📫 Contact 
+E-mail: florent.tuppo@gmail.com
 
