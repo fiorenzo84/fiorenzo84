@@ -1,24 +1,6 @@
-# Bonjour je suis Florent Tuppo 👋
-
-## 👨‍💻 À propos de moi 
--- FR --
-
-Je m'appelle florent tuppo et je suis en train de me reconvertir professionnellement dans les métiers du numérique. Pour cela, j'ai entrepris une formation auprès d'Openclassrooms et j'ai également travaillé de manière autodidacte en suivant des cours en ligne tels que ceux proposés par Udemy et en explorant d'autres tutoriels. Je suis passionné par l'apprentissage et je suis constamment à la recherche de nouvelles compétences.
-
-Je suis une personne curieuse et créative qui aime travailler de manière autonome, mais qui apprécie également travailler en équipe, que ce soit en présentiel ou à distance.
-Vous pouvez trouver divers projets sur mon GitHub.
-
-
-
- -- EN --
- 
- My name is Florent Tuppo and I am in the process of professionally transitioning into the digital industry. To do this, I have undertaken training with Openclassrooms and have also self-taught myself through online courses such as those offered by Udemy and exploring other tutorials. I am passionate about learning and am constantly seeking out new skills.
-
-I am a curious and creative person who enjoys working independently, but also values teamwork, whether in person or remotely. You can find various projects on my GitHub.
-
 
 ## 💻 Technologies 
-Liste des technologies et autres outils que j'utilise pour travailler et poursuivre mon apprentissage en permanence :
+Liste des technologies et autres outils que j'utilise :
 
 ### Langages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,7 +28,3 @@ Liste des technologies et autres outils que j'utilise pour travailler et poursui
 ### Design:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## 📫 Contact 
-E-mail: florent.tuppo@gmail.com
-
